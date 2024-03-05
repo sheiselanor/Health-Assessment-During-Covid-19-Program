@@ -1,0 +1,41 @@
+Name: TASNIM MAHDIYA
+Age: 22
+State: Kuala Lumpur
+Nationality: Bangladeshi
+Status: low risk
+
+Name: WUXIN
+Age: 21
+State: Cheras
+Nationality: Chinese
+Status: high risk
+
+Name: ZUO CHANG
+Age: 20
+State: Cheras
+Nationality: Chinese
+Status: low risk
+
+Name: MAIESHA ANJUM
+Age: 20
+State: Johor
+Nationality: Malaysian
+Status: high risk
+
+Name: NUSRAT JAHAN
+Age: 19
+State: Serdang
+Nationality: Indonesian
+Status: low risk
+
+Name: AIDA NABILA
+Age: 24
+State: Kajang
+Nationality: Malaysian
+Status: high risk
+
+Name: HAIFA JULIA
+Age: 23
+State: Serdang
+Nationality: Indonesian
+Status: high risk

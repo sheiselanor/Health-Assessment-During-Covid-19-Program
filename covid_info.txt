@@ -1,0 +1,60 @@
+1. What is COVID-19? :: Covid-19 is an infectious disease caused by a newly discovered strain os coronavirus, a type of virus known to cause respiratory infections in humans. This new strain was unknown before DECEMBER 2019, when the outbreak of a pneumonia of unidentified cause emerged in Wuhan, China 
+
+2. when was the First Case of Covid-19 Detected in Malaysia? :: The first case of Covid-19 in Malaysia was detected on 24 JANUARY 2020 
+
+3. What Covid-19 Risk Index For Each Activity:: 
+
+[A] Low Risk
+
+- Opening the mail
+- Getting restaurant takeout
+- Pumping gasoline
+- Playing tennis
+- Going camping
+
+
+[B] Moderate-Low Risk
+
+- Grocery shopping
+- Going for a walk, run, or bike ride with others
+- Playing golf
+- Staying at the hotel for two nights
+- Sitting in the doctor's waiting room
+- Going to the library or museum
+- Eating in a restaurant(outside)
+- Walking in a busy downtown
+- Spending an hour at a playground
+
+
+[C] Moderate risk
+
+- Having dinner at someone else's house
+- Attending a backyard barbecue
+- Going to a beach
+- Shopping at a mall
+- Sending kids to school, camp, or day-care
+- Working a week in an office building
+- Swimming in a public pool
+- Visiting an elderly relative or friend in their home
+
+
+[D] Moderate-high risk
+
+- Going to hair salons and barbershop
+- Eating at restaurant(inside)
+- Attending a wedding or funeral
+- Traveling by plane
+- Playing basketball
+- Playing football
+- Hugging or shaking hands when greeting a friend
+
+
+[E] High Risk
+
+- Eating at a buffet
+- Working out at the gym
+- Going to an amusement park
+
+How many days a covid-19 patient has to be in quarantine?::Minimum 7 days
+
+How many waves of covid-19 has been in all over the world?::Recently the world is facing third wave which has been started from 2022

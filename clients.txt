@@ -1,0 +1,37 @@
+Client ID: 167481041241
+Name: Tasnim
+Age: 12
+State: kl
+Nationality: my
+Risk Status: High Risk
+---
+Client ID: 167481376341
+Name: Fiza
+Age: 22
+State: Serdang
+Nationality: Indian
+Risk Status: Low Risk
+---
+Client ID: 167481381741
+Name: Alex
+Age: 20
+State: KL
+Nationality: Chinese
+Risk Status: High Risk
+---
+Client ID: 167481392241
+---
+Client ID: 167482009641
+Name: Selena
+Age: 30
+State: KL
+Nationality: American
+Risk Status: High Risk
+---
+Client ID: 167482026041
+Name: Selena
+Age: 30
+State: cHERAS
+Nationality: Canadian
+Risk Status: Low Risk
+---
